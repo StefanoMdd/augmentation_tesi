@@ -5,7 +5,7 @@
 
 starttime=`date +%s`
 
-echo " Starting... ${date +'%Y-%m-%d : %H:%M'}"
+echo " Starting...  $(date +%Y-%m-%dT%H:%M:%S)"
 
 # Check if GNU Parallel is installed
 if ! command -v parallel &> /dev/null; then
@@ -72,7 +72,7 @@ find "$input_dir" -type f -name "*.nii.gz" | parallel process_file {} "$input_di
 
 endtime=`date +%s`
 
-printf " FINITO... ${date +'%Y-%m-%d : %H:%M'}"
+printf " FINITO... $(date +%Y-%m-%dT%H:%M:%S)"
 
 
 echo Execution time was `expr ${endtime} - ${starttime}` seconds.

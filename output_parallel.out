@@ -1,0 +1,15 @@
+scripts/preprocessing_parallel.sh: line 8:  Starting... ${date +'%Y-%m-%d : %H:%M'}: bad substitution
+parallel: SIGHUP received. No new jobs will be started.
+parallel: Waiting for these 12 jobs to finish. Send SIGTERM to stop now.
+parallel: process_file /home/stefano/OASIS3_FULLDATASET/data/sub-OAS30464/ses-d0951/anat/sub-OAS30464_ses-d0951_run-01_T1w.nii.gz /home/stefano/OASIS3_FULLDATASET/data /home/stefano/output_oasis3_processed
+parallel: process_file /home/stefano/OASIS3_FULLDATASET/data/sub-OAS30103/ses-d4255/anat/sub-OAS30103_ses-d4255_run-01_T1w.nii.gz /home/stefano/OASIS3_FULLDATASET/data /home/stefano/output_oasis3_processed
+parallel: process_file /home/stefano/OASIS3_FULLDATASET/data/sub-OAS30674/ses-d1782/anat/sub-OAS30674_ses-d1782_run-01_T1w.nii.gz /home/stefano/OASIS3_FULLDATASET/data /home/stefano/output_oasis3_processed
+parallel: process_file /home/stefano/OASIS3_FULLDATASET/data/sub-OAS30674/ses-d1782/anat/sub-OAS30674_ses-d1782_run-02_T1w.nii.gz /home/stefano/OASIS3_FULLDATASET/data /home/stefano/output_oasis3_processed
+parallel: process_file /home/stefano/OASIS3_FULLDATASET/data/sub-OAS30464/ses-d0951/anat/sub-OAS30464_ses-d0951_run-02_T1w.nii.gz /home/stefano/OASIS3_FULLDATASET/data /home/stefano/output_oasis3_processed
+parallel: process_file /home/stefano/OASIS3_FULLDATASET/data/sub-OAS30464/ses-d2445/anat/sub-OAS30464_ses-d2445_T1w.nii.gz /home/stefano/OASIS3_FULLDATASET/data /home/stefano/output_oasis3_processed
+parallel: process_file /home/stefano/OASIS3_FULLDATASET/data/sub-OAS30464/ses-d0077/anat/sub-OAS30464_ses-d0077_run-02_T1w.nii.gz /home/stefano/OASIS3_FULLDATASET/data /home/stefano/output_oasis3_processed
+parallel: process_file /home/stefano/OASIS3_FULLDATASET/data/sub-OAS30464/ses-d0077/anat/sub-OAS30464_ses-d0077_run-01_T1w.nii.gz /home/stefano/OASIS3_FULLDATASET/data /home/stefano/output_oasis3_processed
+parallel: process_file /home/stefano/OASIS3_FULLDATASET/data/sub-OAS30995/ses-d0054/anat/sub-OAS30995_ses-d0054_T1w.nii.gz /home/stefano/OASIS3_FULLDATASET/data /home/stefano/output_oasis3_processed
+parallel: process_file /home/stefano/OASIS3_FULLDATASET/data/sub-OAS30555/ses-d1301/anat/sub-OAS30555_ses-d1301_T1w.nii.gz /home/stefano/OASIS3_FULLDATASET/data /home/stefano/output_oasis3_processed
+parallel: process_file /home/stefano/OASIS3_FULLDATASET/data/sub-OAS30103/ses-d4255/anat/sub-OAS30103_ses-d4255_run-02_T1w.nii.gz /home/stefano/OASIS3_FULLDATASET/data /home/stefano/output_oasis3_processed
+parallel: process_file /home/stefano/OASIS3_FULLDATASET/data/sub-OAS30464/ses-d2848/anat/sub-OAS30464_ses-d2848_T1w.nii.gz /home/stefano/OASIS3_FULLDATASET/data /home/stefano/output_oasis3_processed
